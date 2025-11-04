@@ -1,2 +1,2 @@
-# SQL-DB-For-Schools
-This is a project I created by using my SQL skills to create a database for a school system.
+# SQL-Views-For-E-commerce
+To analyze product reviews and delivery performance, our team developed numerous SQL Views.
